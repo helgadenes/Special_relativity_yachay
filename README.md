@@ -1,7 +1,7 @@
 # Special_relativity_yachay
 Material for Special Relativity class 
 
-Syllabus:
+## Syllabus
 
 1. Experimental background to Special Relativity
 2. Relativistic kinematics
@@ -10,7 +10,7 @@ Syllabus:
 5. The geometric representation of Space-Time
 6. Paradoxes
 
-Recommended books:
+## Recommended books
 
 - Robert Resnick: Introduction to Special Relativity 
 - A. P. French: Special Relativity
