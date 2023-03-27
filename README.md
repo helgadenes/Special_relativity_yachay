@@ -13,7 +13,9 @@ Material for Special Relativity class
 ## Evaluation
 
 Quizzes - 40% of the grade
+
 Midterm exam - 30% of the grade
+
 Final exam - 30% of the grade
 
 ## Quizzes
