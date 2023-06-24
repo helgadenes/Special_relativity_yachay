@@ -1,5 +1,5 @@
 # Special_relativity_yachay
-Material for Special Relativity class 
+Material for the Special Relativity part of the Relativity class at Yachay Tech
 
 2023 1st semester
 
@@ -18,13 +18,14 @@ Midterm exam - 30% of the grade
 
 Final exam - 30% of the grade
 
-## Quizzes
-
-
 ## Recommended books
 
 - Robert Resnick: Introduction to Special Relativity 
 - A. P. French: Special Relativity
+
+## Material
+
+The Summaries directory contains summary documents based on the book: Robert Resnick - Introduction to Special Relativity. 
 
 ## Contact
 hdenes@yachaytech.edu.ec
